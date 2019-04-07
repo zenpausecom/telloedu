@@ -1,0 +1,16 @@
+=========================
+1.Tello的名片
+=========================
+
+| 名字:Tello 
+| 类型:无人机  
+| 购买地点:
+
+    #. 苹果直营店，
+    #. DJI官网 https://store.dji.com/cn/product/tello?vid=38421
+    #. 京东商城(http://www.jd.com/),搜索Tello
+| 价格:
+
+    #. Tello 普通款 699元
+    #. Tello 畅飞版 999元,比普通版多了2块电池和一个充电线
+    #. Tello Edu 999元 有挑战卡等STEAM特有内容

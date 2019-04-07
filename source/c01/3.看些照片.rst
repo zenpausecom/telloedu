@@ -1,0 +1,21 @@
+=======================
+3.看一些照片
+=======================
+
+* 这个是未开箱的Tello
+
+.. image:: ./imgs/tello-box.jpg
+
+* 这个是开箱后的Tello
+
+.. image:: ./imgs/tello-openbox.jpg
+
+* 钢铁侠特别版
+
+获得了 Marvel 官方认证，特别版 Tello 航拍机的机身不但有 Iron Man 铠甲的设计和红金配色，
+更加印上“Stark Industries”的标志。航拍机硬件方面，Iron Man 特别版和普通版相同，
+但搭配的手机 App 则有更多功能，例如用户可以和 Marvel 电影中 Tony Stark 的人工智能助理 
+FRIDAY 互动，其他如 Tello EDU 编程教学等功能亦得以保留。
+
+
+.. image:: ./imgs/stark.jpg
